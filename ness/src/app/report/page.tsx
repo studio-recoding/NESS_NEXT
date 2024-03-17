@@ -3,7 +3,7 @@ export default function Report() {
     <>
       <body>
         <div className="mt-[81px] flex flex-col w-full items-center">
-          <div className="">
+          <div>
             <div className="w-[100px] h-[100px] bg-gray-500 "></div>
           </div>
           <div className="flex items-center pt-[43px]">
